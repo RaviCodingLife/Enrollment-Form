@@ -1,0 +1,20 @@
+body{
+background-image: url('1.png');
+}
+
+#col{
+    width: 50%;
+    padding-top:10px;
+    border-right: 2px solid crimson;
+}
+.card h2{
+    font-size: 1.7rem;
+}
+#row{
+    border: 2px solid #ff7675;
+    width: 1300px;
+    height: 750px;
+    margin-bottom: 50px;
+    margin-left: 130px;
+    box-shadow: -10px 10px 20px 10px #a29bfe;
+}
